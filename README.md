@@ -14,7 +14,7 @@
 
 生成正则为^12\d{1,3}$
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241101114858624.png" alt="image-20241101114858624" style="zoom: 67%;" />
+<img src="1.png" alt="1" style="zoom:67%;" />
 
 2、根据中文生成正则：
 
@@ -28,7 +28,7 @@
 
 生成正则为^我爱\s{0,1}[\u4e00-\u9fff]{0,3}$
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241101115055798.png" alt="image-20241101115055798" style="zoom:67%;" />
+<img src="2.png" alt="2" style="zoom:67%;" />
 
 3、根据网址生成正则：
 
@@ -42,4 +42,4 @@ www.google.com
 
 生成正则^www\.[a-z]{4-6}\\.com$
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241101115135805.png" alt="image-20241101115135805" style="zoom:67%;" />
+<img src="3.png" alt="3" style="zoom:67%;" />
