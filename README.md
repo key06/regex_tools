@@ -28,7 +28,7 @@
 
 生成正则为^我爱\s{0,1}[\u4e00-\u9fff]{0,3}$
 
-<img src="2.png" alt="2" style="zoom:67%;" />
+<img src="3.png" alt="3" style="zoom:67%;" />
 
 3、根据网址生成正则：
 
@@ -42,6 +42,6 @@ www.google.com
 
 生成正则^www\.[a-z]{4-6}\\.com$
 
-<img src="3.png" alt="3" style="zoom:67%;" />
+<img src="2.png" alt="2" style="zoom:67%;" />
 
 如遇到Qt5Core.dll缺失，可将该文件添加到环境变量，或者将该文件复制到c:\windows\system32路径下
