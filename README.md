@@ -1,5 +1,6 @@
 这是一款基于C++编写的简单样本统计字符的正则表达生成工具
 
+详情参考:https://mp.weixin.qq.com/s/OF39l_8r2HRnYirj4QgLlw?token=1076841290&lang=zh_CN
 如下所示：
 
 1、根据数字生成正则：
